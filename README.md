@@ -1,0 +1,2 @@
+# CarDetection_YOLOv4
+基于YOLOv4的多线程车辆和行人检测
